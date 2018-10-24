@@ -58,7 +58,7 @@ h2 {
 	}
 }
 
-.ligneLangue {
+.ligne-langue {
 	display: inline;
 	padding: 70px;
 	font-size: 16px;
@@ -169,7 +169,7 @@ hr {
 	background-color: #f08a5d;
 }
 
-.bloc, .blocLangue {
+.bloc, .bloc-langue {
 	margin-top: 3px;
 	border-radius: 6px;
 	margin-bottom: 15px;

@@ -41,6 +41,28 @@ h2 {
 	
 }
 
+@media (max-width: 1200px) {
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    width: 300px;
+  }
+}
+
+@media (max-width: 540px) {
+  .container {
+    width: 300px;
+  }
+}
+
 @media (max-width: 760px) {
 	body {
 		width : 600px;
